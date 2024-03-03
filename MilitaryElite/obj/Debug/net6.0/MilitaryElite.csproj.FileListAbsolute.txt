@@ -1,0 +1,15 @@
+D:\C#\GITHUB\MilitaryElite\obj\Debug\net6.0\MilitaryElite.csproj.AssemblyReference.cache
+D:\C#\GITHUB\MilitaryElite\obj\Debug\net6.0\MilitaryElite.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\GITHUB\MilitaryElite\obj\Debug\net6.0\MilitaryElite.AssemblyInfoInputs.cache
+D:\C#\GITHUB\MilitaryElite\obj\Debug\net6.0\MilitaryElite.AssemblyInfo.cs
+D:\C#\GITHUB\MilitaryElite\obj\Debug\net6.0\MilitaryElite.csproj.CoreCompileInputs.cache
+D:\C#\GITHUB\MilitaryElite\bin\Debug\net6.0\MilitaryElite.exe
+D:\C#\GITHUB\MilitaryElite\bin\Debug\net6.0\MilitaryElite.deps.json
+D:\C#\GITHUB\MilitaryElite\bin\Debug\net6.0\MilitaryElite.runtimeconfig.json
+D:\C#\GITHUB\MilitaryElite\bin\Debug\net6.0\MilitaryElite.dll
+D:\C#\GITHUB\MilitaryElite\bin\Debug\net6.0\MilitaryElite.pdb
+D:\C#\GITHUB\MilitaryElite\obj\Debug\net6.0\MilitaryElite.dll
+D:\C#\GITHUB\MilitaryElite\obj\Debug\net6.0\refint\MilitaryElite.dll
+D:\C#\GITHUB\MilitaryElite\obj\Debug\net6.0\MilitaryElite.pdb
+D:\C#\GITHUB\MilitaryElite\obj\Debug\net6.0\MilitaryElite.genruntimeconfig.cache
+D:\C#\GITHUB\MilitaryElite\obj\Debug\net6.0\ref\MilitaryElite.dll
